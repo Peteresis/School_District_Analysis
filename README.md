@@ -21,10 +21,13 @@ The Jupyter notebook contianing all the figures and datasets used for this repor
 
 As the images above show, after changing to `NaN` the math and reading scores of all the **9th grade students at Thomas High School** there is almost no difference between the two summaries at district level.  The `Average Math Score` changed by 0.1 points, while the `Average Reading Score` is the same in both cases. It is worth noting that, based on the data extracted from the CSV, the number of 9th Grade students at Thomas High School is 461, which represents 461/39170 = 1.18% of the total.  This percentage is too low to make a big difference on the results for the total school district.
 
-
-
 ## How is the school summary affected?
 
+### **Fig. 3: Per School Initial Summary**
+![Fig. 3: Per School Initial Summary](https://github.com/Peteresis/School_District_Analysis/blob/a76ae9bb01ec3fc786d39876b56ee28787bf2379/Resources/Per%20School%20Summary%20Before.png)
+
+### **Fig. 4: Per School Final Summary**
+![Fig. 4: Per School Final Summary](https://github.com/Peteresis/School_District_Analysis/blob/a76ae9bb01ec3fc786d39876b56ee28787bf2379/Resources/Per%20School%20Summary%20After.png)
 
 ## How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
