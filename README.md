@@ -37,6 +37,14 @@ The formula for calculating the `% Passing` is `% Passing = Total Students Passi
 ## How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
 
+
+### **Fig. 5: Initial School Ranking**
+![Fig. 5: Initial School Ranking](https://github.com/Peteresis/School_District_Analysis/blob/b4a6fd16c4b25c62126efaa293da046975ccd1df/Resources/School%20Ranking%20Before.png)
+
+### **Fig. 6: Final School Summary**
+![Fig. 6: Final School Summary](https://github.com/Peteresis/School_District_Analysis/blob/b4a6fd16c4b25c62126efaa293da046975ccd1df/Resources/School%20Ranking%20After.png)
+
+
 ## How does replacing the ninth-grade scores affect the following:
 
 
