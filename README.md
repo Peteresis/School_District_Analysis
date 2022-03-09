@@ -19,29 +19,29 @@ The Jupyter notebook contianing all the figures and datasets used for this repor
 ### **Fig. 2: School District Final Summary**
 ![Fig. 2: School District Final Summary](https://github.com/Peteresis/School_District_Analysis/blob/dada53eb63700219f07716a286c14fe529890425/Resources/Disctrict%20Summary%20After.png)
 
-As the images above show, after changing to `NaN` the math and reading scores of all the **9th grade students at Thomas High School** there is almost no difference between the two summaries at district level.  The `Average Math Score` changed by 0.1 points.  The `Average Reading Score` is the same in both cases. It is worth noting that, based on the data extracted from the CSV the the number of 9th Grade students at Thomas High School is 461, which represents 461/39170 = 1.18% of the total.  This percentage is too low to make a big difference on the results for the total school district.
+As the images above show, after changing to `NaN` the math and reading scores of all the **9th grade students at Thomas High School** there is almost no difference between the two summaries at district level.  The `Average Math Score` changed by 0.1 points, while the `Average Reading Score` is the same in both cases. It is worth noting that, based on the data extracted from the CSV, the number of 9th Grade students at Thomas High School is 461, which represents 461/39170 = 1.18% of the total.  This percentage is too low to make a big difference on the results for the total school district.
 
 
 
-How is the school summary affected?
+## How is the school summary affected?
 
 
-How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+## How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
 
-How does replacing the ninth-grade scores affect the following:
+## How does replacing the ninth-grade scores affect the following:
 
 
-Math and reading scores by grade
+## Math and reading scores by grade
 
 
-Scores by school spending
+## Scores by school spending
 
 
-Scores by school size
+## Scores by school size
 
 
-Scores by school type
+## Scores by school type
 
 
 # Summary
