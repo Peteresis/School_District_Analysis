@@ -7,15 +7,18 @@
 The analysis makes use of Python language Pandas library to review the data contained in the CSV file.
 
 # Results
+
+## How is the district summary affected?
+
 ### **Fig. 1: School District Initial Summary**
-![Fig. 1: School District Initial Summary](https://github.com/Peteresis/School_District_Analysis/blob/801f100b982ff1d05a2e1681a133b9dff8e20243/Resources/School%20District%20Initial%20Summary.png)
+![Fig. 1: School District Initial Summary](https://github.com/Peteresis/School_District_Analysis/blob/6dc7b7f1124e6651c4c6b6173f8f62654a8dfc3b/Resources/Disctrict%20Summary%20Before.png)
 
 ### **Fig. 2: School District Final Summary**
-![Fig. 2: School District Final Summary](https://github.com/Peteresis/School_District_Analysis/blob/9476aa78fb2918edbcbc51bf47038cf5cf0bacd7/Resources/Disctrict%20Summary%20After.png)
+![Fig. 2: School District Final Summary](https://github.com/Peteresis/School_District_Analysis/blob/dada53eb63700219f07716a286c14fe529890425/Resources/Disctrict%20Summary%20After.png)
+
+As the images above show, after changing to `NaN` the math and reading scores of all the **9th grade students at Thomas High School** there is almost no difference between the two summaries at district level.  It is worth noting the the number of 9th Grade students at Thomas High School is 461, which represent 461/39170 = 1.18%
 
 
-
-How is the district summary affected?
 
 
 How is the school summary affected?
