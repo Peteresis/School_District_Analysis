@@ -6,6 +6,10 @@
 
 The analysis makes use of Python language Pandas library to review the data contained in the CSV file.
 
+The Jupyter notebook contianing all the figures and datasets used for this report can be found at https://github.com/Peteresis/School_District_Analysis/blob/d692a11b75aac6d443415a7de0df3ded2d042fe7/PyCitySchools_Challenge_Final.ipynb
+
+[PyCitySchools_Challenge_Final.ipynb](School_District_Analysis/PyCitySchools_Challenge_Final.ipynb)
+
 # Results
 
 ## How is the district summary affected?
@@ -16,7 +20,7 @@ The analysis makes use of Python language Pandas library to review the data cont
 ### **Fig. 2: School District Final Summary**
 ![Fig. 2: School District Final Summary](https://github.com/Peteresis/School_District_Analysis/blob/dada53eb63700219f07716a286c14fe529890425/Resources/Disctrict%20Summary%20After.png)
 
-As the images above show, after changing to `NaN` the math and reading scores of all the **9th grade students at Thomas High School** there is almost no difference between the two summaries at district level.  It is worth noting the the number of 9th Grade students at Thomas High School is 461, which represent 461/39170 = 1.18%
+As the images above show, after changing to `NaN` the math and reading scores of all the **9th grade students at Thomas High School** there is almost no difference between the two summaries at district level.  It is worth noting that the the number of 9th Grade students at Thomas High School is 461, which represents 461/39170 = 1.18%.  The number of students have been extracted from the data in the CSV file
 
 
 
