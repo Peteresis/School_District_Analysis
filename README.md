@@ -19,8 +19,7 @@ The Jupyter notebook contianing all the figures and datasets used for this repor
 ### **Fig. 2: School District Final Summary**
 ![Fig. 2: School District Final Summary](https://github.com/Peteresis/School_District_Analysis/blob/dada53eb63700219f07716a286c14fe529890425/Resources/Disctrict%20Summary%20After.png)
 
-As the images above show, after changing to `NaN` the math and reading scores of all the **9th grade students at Thomas High School** there is almost no difference between the two summaries at district level.  It is worth noting that the the number of 9th Grade students at Thomas High School is 461, which represents 461/39170 = 1.18%.  The number of students have been extracted from the data in the CSV file
-
+As the images above show, after changing to `NaN` the math and reading scores of all the **9th grade students at Thomas High School** there is almost no difference between the two summaries at district level.  The `Average Math Score` changed by 0.1 points.  The `Average Reading Score` is the same in both cases. It is worth noting that, based on the data extracted from the CSV the the number of 9th Grade students at Thomas High School is 461, which represents 461/39170 = 1.18% of the total.  This percentage is too low to make a big difference on the results for the total school district.
 
 
 
