@@ -14,10 +14,10 @@ The Jupyter notebook contianing all the figures and datasets used for this repor
 ## How is the district summary affected?
 
 ### **Fig. 1: School District Initial Summary**
-![Fig. 1: School District Initial Summary](https://github.com/Peteresis/School_District_Analysis/blob/6dc7b7f1124e6651c4c6b6173f8f62654a8dfc3b/Resources/Disctrict%20Summary%20Before.png)
+![Fig. 1: School District Initial Summary](https://github.com/Peteresis/School_District_Analysis/blob/557a025e6e36ab12d7db77f577904ec7ee1d5184/Resources/Disctrict%20Summary%20Before.png)
 
 ### **Fig. 2: School District Final Summary**
-![Fig. 2: School District Final Summary](https://github.com/Peteresis/School_District_Analysis/blob/dada53eb63700219f07716a286c14fe529890425/Resources/Disctrict%20Summary%20After.png)
+![Fig. 2: School District Final Summary](https://github.com/Peteresis/School_District_Analysis/blob/557a025e6e36ab12d7db77f577904ec7ee1d5184/Resources/Disctrict%20Summary%20After.png)
 
 As the images above show, after changing to `NaN` the math and reading scores of all the **9th grade students at Thomas High School** there is almost no difference between the two summaries at district level.  The `Average Math Score` changed by 0.1 points, while the `Average Reading Score` is the same in both cases. It is worth noting that, based on the data extracted from the CSV, the number of 9th Grade students at Thomas High School is 461, which represents 461/39170 = 1.18% of the total.  This percentage is too low to make a big difference on the results for the total school district.
 
