@@ -6,9 +6,7 @@
 
 The analysis makes use of Python language Pandas library to review the data contained in the CSV file.
 
-The Jupyter notebook contianing all the figures and datasets used for this report can be found at https://github.com/Peteresis/School_District_Analysis/blob/d692a11b75aac6d443415a7de0df3ded2d042fe7/PyCitySchools_Challenge_Final.ipynb
-
-[PyCitySchools_Challenge_Final.ipynb](PyCitySchools_Challenge_Final.ipynb)
+The Jupyter notebook contianing all the figures and datasets used for this report can be found at [PyCitySchools_Challenge_Final.ipynb](https://github.com/Peteresis/School_District_Analysis/blob/d692a11b75aac6d443415a7de0df3ded2d042fe7/PyCitySchools_Challenge_Final.ipynb)
 
 # Results
 
