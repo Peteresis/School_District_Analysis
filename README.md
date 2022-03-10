@@ -58,6 +58,11 @@ When reviewing the math and reading scores summary per school and grade, the cha
 
 ### Scores by school spending
 
+### **Fig. 9: Reading and Math Scores per School Size and Spending Summary - Before the change to 9th Grade at THS**
+![Fig. 9: Reading and Math Scores per School Size and Spending Summary - Before the change to 9th Grade at THS](https://github.com/Peteresis/School_District_Analysis/blob/24ed7353f2666fc60e020768283d5abbd27c199c/Resources/Scores%20by%20School%20Spending%20Before.png)
+
+### **Fig. 10: Reading and Math Scores per School Size and Spending Summary - After the change to 9th Grade at THS**
+![Fig. 10: Reading and Math Scores per School Size and Spending Summary - After the change to 9th Grade at THS](https://github.com/Peteresis/School_District_Analysis/blob/24ed7353f2666fc60e020768283d5abbd27c199c/Resources/Scores%20by%20School%20Spending%20After.png)
 
 ### Scores by school size
 
