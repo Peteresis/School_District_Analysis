@@ -101,7 +101,7 @@ Based on the data examined from the CSV file, we can arrive at the following con
 5. In relation to the type of school, Figure 14 cleraly shows that `Charter` schools fare way better than `District` schools.
 
 ```
-From the data analyzed, it can be concluded that the schools that perfomd the best are Charter Schools,
-of Medium or Small size, and spending less than $625 per student
+From the data analyzed, it can be concluded that the schools that perfomed the best are
+Charter Schools, of Medium or Small size, and spending less than $625 per student
 ```
 
