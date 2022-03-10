@@ -81,7 +81,7 @@ There are no significant differences in math or reading scores between the group
 ### Scores by school type
 
 ### **Fig. 13: Grades Per School Type - Before the change to 9th Grade at THS**
-![Fig. 13: Grades Per School Type - Before the change to 9th Grade at THS](https://github.com/Peteresis/School_District_Analysis/blob/e2a5eeb01f0f2c29ca24a4fcdff0b49755ed2c69/Resources/Spending%20Per%20School%20Type%20Before.png)
+![Fig. 13: Grades Per School Type - Before the change to 9th Grade at THS](https://github.com/Peteresis/School_District_Analysis/blob/99f1f90665bf630335ce4a9a7bfbf933dbd3b298/Resources/Grades%20Per%20School%20Type%20Before%20Changing%209th%20Graders.png)
 
 ### **Fig. 14: Grades Per School Type - After the change to 9th Grade at THS**
 ![Fig. 14: Grades Per School Type - After the change to 9th Grade at THS](https://github.com/Peteresis/School_District_Analysis/blob/131fbbc63f0ce64b438d9147b1ed04a780694f6c/Resources/Spending%20Per%20School%20Type%20After.png)
