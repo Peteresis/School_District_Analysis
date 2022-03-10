@@ -24,7 +24,7 @@ As the images above show, after changing to `NaN` the math and reading scores of
 ## How is the school summary affected?
 
 ### **Fig. 3: Per School Initial Summary**
-![Fig. 3: Per School Initial Summary](https://github.com/Peteresis/School_District_Analysis/blob/a76ae9bb01ec3fc786d39876b56ee28787bf2379/Resources/Per%20School%20Summary%20Before.png)
+![Fig. 3: Per School Initial Summary](https://github.com/Peteresis/School_District_Analysis/blob/6d9b165cc2900c39a1382d69e6608153e3280cf6/Resources/Per%20School%20Summary%20Before.png)
 
 ### **Fig. 4: Per School Final Summary**
 ![Fig. 4: Per School Final Summary](https://github.com/Peteresis/School_District_Analysis/blob/a86c3c8665f038fee063711fb09df349dd6db4dc/Resources/Per%20School%20Summary%20After.png)
