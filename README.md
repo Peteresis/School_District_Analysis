@@ -42,7 +42,7 @@ The formula for calculating the `% Passing` is `% Passing = Total Students Passi
 ### **Fig. 6: Final School Summary**
 ![Fig. 6: Final School Summary](https://github.com/Peteresis/School_District_Analysis/blob/a86c3c8665f038fee063711fb09df349dd6db4dc/Resources/Per%20School%20Summary%20After.png)
 
-The change in the Thomas High School ninth graders math and reading scores dropped the relative position of THS from the 2nd place in the district down to the 12th position.
+The change in the Thomas High School ninth graders math and reading scores dropped the relative position of THS from the 2nd place in the district down to the 13th position.
 
 ## How does replacing the ninth-grade scores affect the following:
 
