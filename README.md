@@ -69,7 +69,7 @@ The position of Thomas High School relative to other schools in the district did
 ### Scores by school size
 
 ### **Fig. 11: Grades Per School Size - Before the change to 9th Grade at THS**
-![Fig. 11: Grades Per School Size - Before the change to 9th Grade at THS](https://github.com/Peteresis/School_District_Analysis/blob/f81e781ea6f9334e1f38da6df1eee945b36525ea/Resources/Spending%20Per%20School%20Size%20Before.png)
+![Fig. 11: Grades Per School Size - Before the change to 9th Grade at THS](https://github.com/Peteresis/School_District_Analysis/blob/fda9daf1b14876f8da72c4a2b1c46887f60d3128/Resources/Grades%20Per%20School%20Size%20Befre%209th%20Grade%20Change.png)
 
 ### **Fig. 12: Grades Per School Size - After the change to 9th Grade at THS**
 ![Fig. 12: Grades Per School Size - After the change to 9th Grade at THS](https://github.com/Peteresis/School_District_Analysis/blob/9473532f42a9d1dd9012cf10f116b3a5d5f0ab48/Resources/Spending%20Per%20School%20Size%20After.png)
