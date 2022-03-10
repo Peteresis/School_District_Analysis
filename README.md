@@ -68,11 +68,15 @@ The position of Thomas High School relative to other schools in the district did
 
 ### Scores by school size
 
-### **Fig. 11: Spending Per School Size - Before the change to 9th Grade at THS**
-![Fig. 11: Spending Per School Size - Before the change to 9th Grade at THS](https://github.com/Peteresis/School_District_Analysis/blob/f81e781ea6f9334e1f38da6df1eee945b36525ea/Resources/Spending%20Per%20School%20Size%20Before.png)
+### **Fig. 11: Grades Per School Size - Before the change to 9th Grade at THS**
+![Fig. 11: Grades Per School Size - Before the change to 9th Grade at THS](https://github.com/Peteresis/School_District_Analysis/blob/f81e781ea6f9334e1f38da6df1eee945b36525ea/Resources/Spending%20Per%20School%20Size%20Before.png)
 
-### **Fig. 12: Spending Per School Size - After the change to 9th Grade at THS**
-![Fig. 12: Spending Per School Size - After the change to 9th Grade at THS](https://github.com/Peteresis/School_District_Analysis/blob/f81e781ea6f9334e1f38da6df1eee945b36525ea/Resources/Spending%20Per%20School%20Size%20After.png)
+### **Fig. 12: Grades Per School Size - After the change to 9th Grade at THS**
+![Fig. 12: Grades Per School Size - After the change to 9th Grade at THS](https://github.com/Peteresis/School_District_Analysis/blob/9473532f42a9d1dd9012cf10f116b3a5d5f0ab48/Resources/Spending%20Per%20School%20Size%20After.png)
+
+The `Average Math Score`, `Average Reading Score` and the `% Overall Passing` values do not change from before to after the change to the grades of the 9th graders at Thomas High School.
+
+There are no significant differences in math or reading scores between the groups `Small (< 1000)` and `Medium (1000-2000)`.  However, the scores drop considerably for the group `Large (2000-5000)`.  The `% Overal Passing` score stays between 90 to 91 for the Small and Medium groups, but drops to 58 to the Large group. 
 
 ### Scores by school type
 
