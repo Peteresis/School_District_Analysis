@@ -49,6 +49,13 @@ The change in the Thomas High School ninth graders math and reading scores dropp
 
 ### Math and reading scores by grade
 
+### **Fig. 7: Reading and Math Scores per School and Grade Summary - Before the change to 9th Grade at THS**
+![Fig. 7: Reading and Math Scores per School and Grade Summary](https://github.com/Peteresis/School_District_Analysis/blob/dbd73fdbf25de8d7e581d4138e2f4720eb0d351d/Resources/Reading%20and%20Math%20Before.png)
+
+### **Fig. 8: Reading and Math Scores per School and Grade Summary - After the change to 9th Grade at THS**
+![Fig. 7: Reading and Math Scores per School and Grade Summary]
+https://github.com/Peteresis/School_District_Analysis/blob/dbd73fdbf25de8d7e581d4138e2f4720eb0d351d/Resources/Reading%20and%20Math%20After.png
+
 
 ### Scores by school spending
 
