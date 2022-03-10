@@ -102,6 +102,6 @@ Based on the data examined from the CSV file, we can arrive at the following con
 
 ```
 From the data analyzed, it can be concluded that the schools that perfomed the best are
-Charter Schools, of Medium or Small size, and spending less than $625 per student
+Charter Schools, of Medium or Small size, and spending less than $625 per student.
 ```
 
