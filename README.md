@@ -88,8 +88,14 @@ There are no significant differences in math or reading scores between the group
 
 When looking at the `% Overall Passing` score, it is evident that the `Charter` schools perform far better than the `District` schools. The first group received 90%, while the second received only 54%. The ratio is 1.67:1, which is quite substantial.
 
-This large disparity appears to be driven primarily by Math, as `Charter` schools had an average score of 83.5 percent compared to 77 percent for `District` schools, the difference is 6.5 points. When looking at the reading scores, the gap between the two groups is less pronounced, just 2.9 points.
+This large disparity appears to be driven primarily by Math, as `Charter` schools had an average score of 83.5 percent compared to 77 percent for `District` schools, a difference of 6.5 points. When looking at the reading scores, the gap between the two groups is less pronounced, just 2.9 points.
 
 # Summary
 
-Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+Based on the data examined from the CSV file, we can arrive at the following conclusions:
+
+1. The inclusion or exclusion of math and reading scores for 9th graders at Thomas High School has no meaningful impact on the School District's performance.
+2. Based on the data studied, it is not possible to draw any conclusions about the possibility of dishonesty in the reading and math scores for ninth grade at Thomas High School. Perhaps if the analysis had focused on comparing THS's math and reading data with other schools using statistical analysis, it would have been possible to shed some light on this matter and confirm or deny the hypothesis, but the analysis was focused on reporting administrative metrics rather than on grading scores.
+3. 
+
+
