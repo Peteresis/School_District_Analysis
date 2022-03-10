@@ -100,7 +100,7 @@ Based on the data examined from the CSV file, we can arrive at the following con
 4. From Figure 10 we can infer that the amount of money spent per student appears to have an inverse relationship with the grades earned. Schools in the highest budget category ($628 - $655) have abysmal Overall Scores hovering about 53%. The sole exception is Thomas High School, which spends $638 per pupil and has a 90.6 percent overall grade. This fact may support the notion of dishonesty, but it is not conclusive. The highest Overal Scores are seen near the bottom of the spending table, where the majority of schools have an Overal Score of 89 percent or above. 'Wilson High School,' once again, is the school in the category that spends less per student while achieving an enviable Overal Score of 90.6 percent.
 5. In relation to the type of school, Figure 14 cleraly shows that `Charter` schools fare way better than `District` schools.
 
-
+```
 **From the data analyzed, it can be concluded that the schools that perfomd the best are Charter Schools, of Medium or Small size, and spending less than $625 per student**
-
+```
 
