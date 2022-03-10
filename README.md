@@ -24,7 +24,7 @@ As the images above show, after changing to `NaN` the math and reading scores of
 ## How is the school summary affected?
 
 ### **Fig. 3: Per School Initial Summary**
-![Fig. 3: Per School Initial Summary](https://github.com/Peteresis/School_District_Analysis/blob/a76ae9bb01ec3fc786d39876b56ee28787bf2379/Resources/Per%20School%20Summary%20Before.png)
+![Fig. 3: Per School Initial Summary](https://github.com/Peteresis/School_District_Analysis/blob/6d9b165cc2900c39a1382d69e6608153e3280cf6/Resources/Per%20School%20Summary%20Before.png)
 
 ### **Fig. 4: Per School Final Summary**
 ![Fig. 4: Per School Final Summary](https://github.com/Peteresis/School_District_Analysis/blob/a86c3c8665f038fee063711fb09df349dd6db4dc/Resources/Per%20School%20Summary%20After.png)
@@ -40,9 +40,9 @@ The formula for calculating the `% Passing` is `% Passing = Total Students Passi
 ![Fig. 5: Initial School Ranking](https://github.com/Peteresis/School_District_Analysis/blob/b4a6fd16c4b25c62126efaa293da046975ccd1df/Resources/School%20Ranking%20Before.png)
 
 ### **Fig. 6: Final School Summary**
-![Fig. 6: Final School Summary](https://github.com/Peteresis/School_District_Analysis/blob/b4a6fd16c4b25c62126efaa293da046975ccd1df/Resources/School%20Ranking%20After.png)
+![Fig. 6: Final School Summary](https://github.com/Peteresis/School_District_Analysis/blob/a86c3c8665f038fee063711fb09df349dd6db4dc/Resources/Per%20School%20Summary%20After.png)
 
-The change in the Thomas High School ninth graders math and reading scores dropped the relative position of THS from the 2nd place in the district down to the 8th position.
+The change in the Thomas High School ninth graders math and reading scores dropped the relative position of THS from the 2nd place in the district down to the 13th position.
 
 ## How does replacing the ninth-grade scores affect the following:
 
