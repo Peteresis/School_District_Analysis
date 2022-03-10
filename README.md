@@ -64,6 +64,8 @@ When reviewing the math and reading scores summary per school and grade, the cha
 ### **Fig. 10: Reading and Math Scores per School Size and Spending Summary - After the change to 9th Grade at THS**
 ![Fig. 10: Reading and Math Scores per School Size and Spending Summary - After the change to 9th Grade at THS](https://github.com/Peteresis/School_District_Analysis/blob/24ed7353f2666fc60e020768283d5abbd27c199c/Resources/Scores%20by%20School%20Spending%20After.png)
 
+The position of Thomas High School relative to other schools in the district did not change before and after making the change to the 9th graders; the school remained in 6th place in both cases.  This result was to be expected as the spending in each school is related to the number of students and not to the grades obtained.  Obviously, the reading and math average scores changed, but that did not affect the total spending of the school.
+
 ### Scores by school size
 
 
