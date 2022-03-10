@@ -14,7 +14,7 @@ The Jupyter notebook contianing all the figures and datasets used for this repor
 ## How is the district summary affected?
 
 ### **Fig. 1: School District Initial Summary**
-![Fig. 1: School District Initial Summary](https://github.com/Peteresis/School_District_Analysis/blob/9ab564965342460e287fd6023365728db423c0ce/Resources/Disctrict%20Summary%20Before.png)
+![Fig. 1: School District Initial Summary](https://github.com/Peteresis/School_District_Analysis/blob/a26e86a8a5f031a7d793edc7dccbbb77f3aea8b2/Resources/Disctrict%20Summary%20Before.png)
 
 ### **Fig. 2: School District Final Summary**
 ![Fig. 2: School District Final Summary](https://github.com/Peteresis/School_District_Analysis/blob/557a025e6e36ab12d7db77f577904ec7ee1d5184/Resources/Disctrict%20Summary%20After.png)
